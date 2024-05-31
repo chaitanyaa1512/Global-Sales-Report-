@@ -24,6 +24,7 @@ The goal of this case study was to analyze global furniture sales data to identi
 
 1) Anomaly Detected 📌 : The number of items sold in January 2022 was unexpectedly high at 566.
 2) Trend Analysis 📈 :
+   
 -A significant increase in the number of items sold with a rise of 260 items.
 
 -Margin values showed a steady upward trend, increasing by 7419.87.

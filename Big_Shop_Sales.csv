@@ -1,0 +1,911 @@
+﻿Salesperson,Product,Region,Customer, Date , Item Cost , No.Items 
+"Bains, Gaurav",Marble Dining Table,South West,Style and Spa,31-07-2021, ₹ 487.61 , ₹ 13.00 
+"Sharma, Varun",Glass Centre Table,North East,Metro Emporium,19-07-2022, ₹ 65.91 , ₹ 4.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,03-02-2022, ₹ 218.59 , ₹ 14.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Metro Emporium,02-04-2022, ₹ 311.28 , ₹ 3.00 
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Designer Homes,25-07-2022, ₹ 73.88 , ₹ 6.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Metro Emporium,25-12-2021, ₹ 67.64 , ₹ 13.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Elite Designs,20-11-2021, ₹ 114.37 , ₹ 4.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Designer Homes,15-09-2022, ₹ 477.05 , ₹ 14.00 
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,14-01-2021, ₹ 440.58 , ₹ 4.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Elite Designs,30-01-2022, ₹ 101.33 , ₹ 10.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Metro Emporium,11-02-2022, ₹ 941.33 , ₹ 12.00 
+"Arya, Gunjan",Bamboo Foam Couch,North East,Metro Emporium,21-03-2021, ₹ 682.48 , ₹ 10.00 
+"Arora, Megha",Bamboo Foam Couch,North West,Style and Spa,03-05-2022, ₹ 942.19 , ₹ 22.00 
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,29-01-2021, ₹ 529.97 , ₹ 8.00 
+"Arya, Gunjan",Glass Centre Table,North East,Home INDIA,26-01-2021, ₹ 41.74 , ₹ 12.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Metro Emporium,28-03-2022, ₹ 48.37 , ₹ 4.00 
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Home INDIA,08-04-2021, ₹ 386.16 , ₹ 3.00 
+"Arora, Megha",Marble Dining Table,North West,Style and Spa,25-10-2022, ₹ 434.43 , ₹ 20.00 
+"Sinha, Anoop",Marble Dining Table,North East,Designer Homes,01-04-2022, ₹ 524.74 , ₹ 14.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,16-05-2021, ₹ 111.66 , ₹ 15.00 
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,07-03-2021, ₹ 40.42 , ₹ 13.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Elite Designs,08-01-2021, ₹ 3.39 , ₹ 3.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Style and Spa,24-12-2021, ₹ 0.73 , ₹ 21.00 
+"Dube, Akanksha",Marble Dining Table,South West,Designer Homes,13-10-2022, ₹ 545.95 , ₹ 1.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,16-08-2022, ₹ 357.73 , ₹ 3.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Home INDIA,21-06-2021, ₹ 823.08 , ₹ 12.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Style and Spa,12-11-2021, ₹ 186.96 , ₹ 17.00 
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Metro Emporium,19-06-2022, ₹ 307.04 , ₹ 1.00 
+"Puri, Silky",Marble Dining Table,North East,Home INDIA,01-03-2022, ₹ 434.99 , ₹ 12.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Elite Designs,30-12-2021, ₹ 314.69 , ₹ 13.00 
+"Bains, Gaurav",Glass Centre Table,South West,Metro Emporium,08-07-2022, ₹ 120.16 , ₹ 15.00 
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Designer Homes,15-03-2022, ₹ 413.44 , ₹ 4.00 
+"Malik, Dev",Wodden Coffee Table,North West,Home INDIA,25-10-2022, ₹ 93.49 , ₹ 1.00 
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Designer Homes,28-06-2021, ₹ 57.26 , ₹ 4.00 
+"Malik, Dev",Wodden Coffee Table,North West,Elite Designs,11-10-2022, ₹ 62.00 , ₹ 11.00 
+"Sinha, Anoop",Glass Centre Table,North East,Elite Designs,20-08-2022, ₹ 105.14 , ₹ 14.00 
+"Kale, Shipra",Marble Dining Table,South East,Metro Emporium,16-08-2022, ₹ 287.03 , ₹ 8.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Elite Designs,31-10-2022, ₹ 59.44 , ₹ 2.00 
+"Bains, Gaurav",Marble Dining Table,South West,Elite Designs,23-09-2022, ₹ 1.79 , ₹ 8.00 
+"Arora, Megha",Glass Centre Table,North West,Style and Spa,10-05-2022, ₹ 59.71 , ₹ 8.00 
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,25-04-2021, ₹ 458.99 , ₹ 7.00 
+"Arora, Megha",Wodden Coffee Table,North West,Metro Emporium,13-12-2021, ₹ 133.54 , ₹ 1.00 
+"Bains, Gaurav",Marble Dining Table,South West,Elite Designs,09-01-2022, ₹ 270.87 , ₹ 12.00 
+"Arya, Gunjan",Wodden Coffee Table,North East,Elite Designs,18-06-2021, ₹ 192.54 , ₹ 10.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Elite Designs,13-10-2022, ₹ 25.32 , ₹ 4.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Metro Emporium,24-12-2022, ₹ 532.12 , ₹ 13.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,21-09-2021," ₹ 1,146.24 ", ₹ 11.00 
+"Malik, Dev",Marble Dining Table,North West,Designer Homes,18-02-2022, ₹ 307.64 , ₹ 16.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Metro Emporium,11-05-2021, ₹ 747.96 , ₹ 6.00 
+"Bains, Gaurav",Glass Centre Table,South West,Metro Emporium,03-02-2022, ₹ 75.30 , ₹ 8.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,26-11-2022, ₹ 81.35 , ₹ 1.00 
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,17-01-2022, ₹ 269.02 , ₹ 2.00 
+"Arora, Megha",Bamboo Foam Couch,North West,Designer Homes,19-12-2021, ₹ 578.47 , ₹ 15.00 
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Home INDIA,06-09-2021, ₹ 103.04 , ₹ 1.00 
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,31-03-2022, ₹ 150.59 , ₹ 15.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Metro Emporium,07-02-2022," ₹ 1,059.43 ", ₹ 6.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Elite Designs,07-10-2022, ₹ 90.22 , ₹ 1.00 
+"Roy, Ajeet",Marble Dining Table,South West,Style and Spa,31-05-2022, ₹ 537.26 , ₹ 22.00 
+"Arora, Megha",Glass Centre Table,North West,Metro Emporium,28-10-2022, ₹ 97.02 , ₹ 8.00 
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Metro Emporium,22-10-2021," ₹ 1,112.41 ", ₹ 5.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Style and Spa,22-12-2022, ₹ 130.84 , ₹ 13.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Metro Emporium,05-07-2021," ₹ 1,079.19 ", ₹ 2.00 
+"Arora, Megha",Glass Centre Table,North West,Designer Homes,01-08-2022, ₹ 63.45 , ₹ 10.00 
+"Arora, Megha",Glass Centre Table,North West,Home INDIA,06-02-2022, ₹ 83.24 , ₹ 3.00 
+"Malik, Dev",Marble Dining Table,North West,Style and Spa,28-01-2021, ₹ 501.98 , ₹ 7.00 
+"Arya, Gunjan",Glass Centre Table,North East,Metro Emporium,19-04-2021, ₹ 26.06 , ₹ 8.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Elite Designs,19-08-2021, ₹ 448.71 , ₹ 1.00 
+"Kale, Shipra",Marble Dining Table,South East,Elite Designs,09-08-2021, ₹ 399.79 , ₹ 15.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Metro Emporium,21-05-2022, ₹ 270.51 , ₹ 6.00 
+"Arora, Megha",Bamboo Foam Couch,North West,Home INDIA,01-10-2022," ₹ 1,231.01 ", ₹ 4.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Style and Spa,07-10-2021, ₹ 31.73 , ₹ 20.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Elite Designs,12-12-2022, ₹ 28.72 , ₹ 13.00 
+"Bains, Gaurav",Glass Centre Table,South West,Elite Designs,12-11-2021, ₹ 19.19 , ₹ 14.00 
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,03-10-2021, ₹ 82.02 , ₹ 22.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Designer Homes,09-09-2021, ₹ 705.13 , ₹ 4.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Metro Emporium,04-07-2021, ₹ 325.64 , ₹ 15.00 
+"Kale, Shipra",Marble Dining Table,South East,Home INDIA,22-12-2022, ₹ 4.51 , ₹ 13.00 
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Designer Homes,08-10-2021, ₹ 140.30 , ₹ 7.00 
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Metro Emporium,13-07-2021, ₹ 528.09 , ₹ 3.00 
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,06-08-2021, ₹ 192.62 , ₹ 7.00 
+"Puri, Silky",Wodden Coffee Table,North East,Home INDIA,19-11-2021, ₹ 55.20 , ₹ 5.00 
+"Bains, Gaurav",Glass Centre Table,South West,Designer Homes,10-12-2021, ₹ 31.13 , ₹ 11.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Metro Emporium,26-08-2022, ₹ 660.51 , ₹ 11.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,16-04-2021, ₹ 897.48 , ₹ 7.00 
+"Sharma, Varun",Glass Centre Table,North East,Designer Homes,15-08-2022, ₹ 74.25 , ₹ 8.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,19-08-2022, ₹ 738.62 , ₹ 14.00 
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,09-09-2021, ₹ 235.31 , ₹ 7.00 
+"Bains, Gaurav",Glass Centre Table,South West,Elite Designs,28-05-2021, ₹ 71.91 , ₹ 1.00 
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Metro Emporium,15-11-2022, ₹ 439.61 , ₹ 14.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Style and Spa,09-07-2022, ₹ 330.84 , ₹ 6.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,19-11-2022," ₹ 1,142.63 ", ₹ 21.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Style and Spa,24-12-2022, ₹ 470.86 , ₹ 20.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Style and Spa,28-05-2021, ₹ 241.24 , ₹ 6.00 
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Style and Spa,17-12-2022, ₹ 249.87 , ₹ 8.00 
+"Dube, Akanksha",Marble Dining Table,South West,Elite Designs,02-12-2022, ₹ 216.22 , ₹ 10.00 
+"Saini, Gargi",Marble Dining Table,South West,Designer Homes,23-11-2021, ₹ 155.40 , ₹ 16.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Home INDIA,04-10-2021, ₹ 90.12 , ₹ 6.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,25-10-2021, ₹ 135.55 , ₹ 5.00 
+"Arora, Megha",Wodden Coffee Table,North West,Designer Homes,20-08-2021, ₹ 30.50 , ₹ 8.00 
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,05-02-2021, ₹ 102.04 , ₹ 11.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,12-02-2021, ₹ 267.06 , ₹ 14.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Metro Emporium,03-06-2022, ₹ 185.39 , ₹ 11.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,24-08-2021," ₹ 1,114.81 ", ₹ 4.00 
+"Bains, Gaurav",Marble Dining Table,South West,Home INDIA,09-04-2021, ₹ 184.83 , ₹ 12.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Style and Spa,13-12-2022, ₹ 45.80 , ₹ 6.00 
+"Sharma, Varun",Glass Centre Table,North East,Elite Designs,18-03-2021, ₹ 80.09 , ₹ 10.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Elite Designs,18-06-2021, ₹ 261.91 , ₹ 6.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Metro Emporium,17-08-2021, ₹ 21.85 , ₹ 16.00 
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,27-01-2022, ₹ 86.84 , ₹ 12.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Designer Homes,05-02-2022, ₹ 322.49 , ₹ 10.00 
+"Arora, Megha",Bamboo Foam Couch,North West,Designer Homes,25-11-2021, ₹ 992.31 , ₹ 2.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Style and Spa,28-11-2021, ₹ 226.01 , ₹ 15.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Elite Designs,11-02-2022, ₹ 100.91 , ₹ 15.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Elite Designs,22-04-2022, ₹ 98.94 , ₹ 1.00 
+"Malik, Dev",Wodden Coffee Table,North West,Home INDIA,08-11-2021, ₹ 125.08 , ₹ 12.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Style and Spa,12-11-2021, ₹ 210.98 , ₹ 12.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,08-04-2022, ₹ 148.19 , ₹ 11.00 
+"Puri, Silky",Wodden Coffee Table,North East,Home INDIA,22-10-2021, ₹ 161.87 , ₹ 2.00 
+"Kale, Shipra",Glass Centre Table,South East,Metro Emporium,11-11-2022, ₹ 123.39 , ₹ 1.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,19-06-2022," ₹ 1,103.06 ", ₹ 1.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Style and Spa,19-06-2021, ₹ 772.38 , ₹ 21.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,19-09-2021, ₹ 418.67 , ₹ 14.00 
+"Bains, Gaurav",Marble Dining Table,South West,Home INDIA,05-08-2022, ₹ 122.98 , ₹ 11.00 
+"Roy, Ajeet",Marble Dining Table,South West,Style and Spa,21-08-2021, ₹ 75.14 , ₹ 6.00 
+"Malik, Dev",Glass Centre Table,North West,Home INDIA,03-09-2021, ₹ 18.96 , ₹ 2.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,03-02-2022, ₹ 109.65 , ₹ 14.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Home INDIA,17-09-2021, ₹ 401.64 , ₹ 11.00 
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Elite Designs,09-09-2022, ₹ 309.99 , ₹ 10.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Home INDIA,08-10-2021, ₹ 44.85 , ₹ 4.00 
+"Arya, Gunjan",Bamboo Foam Couch,North East,Designer Homes,29-07-2021, ₹ 277.53 , ₹ 10.00 
+"Sinha, Anoop",Marble Dining Table,North East,Home INDIA,16-10-2021, ₹ 263.29 , ₹ 3.00 
+"Arora, Megha",Wodden Coffee Table,North West,Metro Emporium,30-11-2021, ₹ 174.40 , ₹ 15.00 
+"Puri, Silky",Wodden Coffee Table,North East,Style and Spa,17-02-2022, ₹ 102.46 , ₹ 15.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,25-06-2022, ₹ 263.51 , ₹ 17.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Style and Spa,29-11-2021, ₹ 355.87 , ₹ 19.00 
+"Roy, Ajeet",Marble Dining Table,South West,Elite Designs,19-02-2022, ₹ 295.51 , ₹ 7.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Designer Homes,11-10-2021, ₹ 392.14 , ₹ 13.00 
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,23-12-2022, ₹ 30.65 , ₹ 7.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Style and Spa,06-11-2022, ₹ 319.56 , ₹ 19.00 
+"Bains, Gaurav",Glass Centre Table,South West,Elite Designs,01-07-2022, ₹ 59.03 , ₹ 4.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Metro Emporium,09-09-2022, ₹ 50.50 , ₹ 16.00 
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,05-07-2021, ₹ 74.14 , ₹ 6.00 
+"Sinha, Anoop",Glass Centre Table,North East,Elite Designs,19-11-2021, ₹ 99.34 , ₹ 8.00 
+"Arora, Megha",Marble Dining Table,North West,Designer Homes,09-08-2021, ₹ 121.45 , ₹ 2.00 
+"Malik, Dev",Marble Dining Table,North West,Elite Designs,29-08-2022, ₹ 273.03 , ₹ 5.00 
+"Arya, Gunjan",Bamboo Foam Couch,North East,Style and Spa,20-02-2021, ₹ 835.95 , ₹ 20.00 
+"Puri, Silky",Marble Dining Table,North East,Designer Homes,24-07-2021, ₹ 242.44 , ₹ 7.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Home INDIA,17-07-2022, ₹ 35.83 , ₹ 2.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,28-12-2021, ₹ 56.04 , ₹ 22.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,29-10-2021, ₹ 263.90 , ₹ 16.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,18-09-2022, ₹ 136.40 , ₹ 22.00 
+"Sinha, Anoop",Glass Centre Table,North East,Home INDIA,16-10-2021, ₹ 61.58 , ₹ 1.00 
+"Arya, Gunjan",Glass Centre Table,North East,Elite Designs,18-01-2022, ₹ 54.29 , ₹ 2.00 
+"Kale, Shipra",Glass Centre Table,South East,Metro Emporium,08-02-2021, ₹ 27.20 , ₹ 15.00 
+"Bains, Gaurav",Wodden Coffee Table,South West,Home INDIA,20-08-2022, ₹ 252.53 , ₹ 2.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,12-08-2022," ₹ 1,201.66 ", ₹ 13.00 
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Home INDIA,12-04-2022, ₹ 276.65 , ₹ 4.00 
+"Malik, Dev",Marble Dining Table,North West,Style and Spa,27-12-2021, ₹ 452.47 , ₹ 17.00 
+"Arya, Gunjan",Bamboo Foam Couch,North East,Metro Emporium,19-02-2021, ₹ 129.08 , ₹ 5.00 
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,23-07-2021, ₹ 82.03 , ₹ 14.00 
+"Puri, Silky",Marble Dining Table,North East,Style and Spa,13-06-2021, ₹ 37.02 , ₹ 20.00 
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Elite Designs,25-04-2021, ₹ 326.39 , ₹ 8.00 
+"Malik, Dev",Wodden Coffee Table,North West,Style and Spa,24-07-2021, ₹ 19.36 , ₹ 7.00 
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Style and Spa,13-03-2021, ₹ 147.38 , ₹ 19.00 
+"Sinha, Anoop",Glass Centre Table,North East,Metro Emporium,24-12-2021, ₹ 29.21 , ₹ 3.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Home INDIA,02-10-2021, ₹ 46.34 , ₹ 1.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Home INDIA,06-02-2022, ₹ 434.60 , ₹ 15.00 
+"Arya, Gunjan",Marble Dining Table,North East,Elite Designs,09-01-2022, ₹ 299.19 , ₹ 1.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Designer Homes,18-09-2022, ₹ 662.15 , ₹ 10.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Elite Designs,24-05-2021, ₹ 137.59 , ₹ 4.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Home INDIA,19-11-2021, ₹ 61.74 , ₹ 10.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,06-02-2021, ₹ 195.91 , ₹ 10.00 
+"Malik, Dev",Wodden Coffee Table,North West,Elite Designs,26-11-2021, ₹ 162.86 , ₹ 2.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Style and Spa,04-11-2021, ₹ 155.34 , ₹ 12.00 
+"Bains, Gaurav",Marble Dining Table,South West,Metro Emporium,10-05-2022, ₹ 214.41 , ₹ 8.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Elite Designs,24-12-2021, ₹ 121.77 , ₹ 10.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Style and Spa,05-02-2022, ₹ 537.89 , ₹ 13.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Designer Homes,05-02-2022, ₹ 66.58 , ₹ 6.00 
+"Arora, Megha",Glass Centre Table,North West,Designer Homes,25-01-2022, ₹ 119.50 , ₹ 11.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Style and Spa,12-04-2022, ₹ 245.50 , ₹ 8.00 
+"Kale, Shipra",Marble Dining Table,South East,Designer Homes,31-10-2021, ₹ 405.04 , ₹ 16.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Home INDIA,11-04-2021, ₹ 266.85 , ₹ 3.00 
+"Kale, Shipra",Glass Centre Table,South East,Metro Emporium,02-05-2021, ₹ 25.86 , ₹ 1.00 
+"Bains, Gaurav",Marble Dining Table,South West,Designer Homes,03-03-2022, ₹ 131.92 , ₹ 13.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Designer Homes,23-04-2022, ₹ 616.17 , ₹ 5.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Elite Designs,03-10-2022, ₹ 593.95 , ₹ 10.00 
+"Puri, Silky",Marble Dining Table,North East,Metro Emporium,25-04-2021, ₹ 310.69 , ₹ 4.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Designer Homes,08-11-2022, ₹ 178.66 , ₹ 10.00 
+"Arora, Megha",Wodden Coffee Table,North West,Elite Designs,23-07-2022, ₹ 31.36 , ₹ 2.00 
+"Bains, Gaurav",Wodden Coffee Table,South West,Elite Designs,07-10-2022, ₹ 91.97 , ₹ 1.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Elite Designs,01-11-2021, ₹ 37.12 , ₹ 11.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Home INDIA,20-02-2022, ₹ 554.00 , ₹ 4.00 
+"Sharma, Varun",Marble Dining Table,North East,Metro Emporium,29-01-2022, ₹ 375.51 , ₹ 8.00 
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Metro Emporium,24-07-2021, ₹ 269.78 , ₹ 10.00 
+"Puri, Silky",Wodden Coffee Table,North East,Style and Spa,03-06-2021, ₹ 254.76 , ₹ 15.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,24-11-2022, ₹ 650.85 , ₹ 11.00 
+"Arya, Gunjan",Wodden Coffee Table,North East,Home INDIA,16-02-2021, ₹ 84.86 , ₹ 12.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,30-06-2022, ₹ 50.09 , ₹ 2.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Style and Spa,14-03-2022, ₹ 337.66 , ₹ 10.00 
+"Arora, Megha",Glass Centre Table,North West,Metro Emporium,18-12-2021, ₹ 36.48 , ₹ 4.00 
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,18-03-2021, ₹ 95.47 , ₹ 1.00 
+"Arora, Megha",Glass Centre Table,North West,Home INDIA,30-01-2022, ₹ 30.82 , ₹ 2.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Elite Designs,13-05-2021, ₹ 788.55 , ₹ 10.00 
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,01-12-2022, ₹ 154.04 , ₹ 2.00 
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Metro Emporium,13-03-2021, ₹ 277.43 , ₹ 10.00 
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,10-04-2022, ₹ 210.16 , ₹ 6.00 
+"Kale, Shipra",Glass Centre Table,South East,Metro Emporium,08-02-2021, ₹ 54.09 , ₹ 10.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Style and Spa,14-09-2021, ₹ 170.18 , ₹ 14.00 
+"Malik, Dev",Wodden Coffee Table,North West,Designer Homes,11-12-2021, ₹ 134.51 , ₹ 5.00 
+"Arora, Megha",Glass Centre Table,North West,Designer Homes,28-11-2021, ₹ 118.46 , ₹ 5.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,21-01-2022, ₹ 231.98 , ₹ 8.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Designer Homes,19-11-2022, ₹ 16.68 , ₹ 3.00 
+"Sinha, Anoop",Glass Centre Table,North East,Metro Emporium,30-08-2021, ₹ 97.52 , ₹ 13.00 
+"Malik, Dev",Marble Dining Table,North West,Style and Spa,23-05-2022, ₹ 427.03 , ₹ 7.00 
+"Dube, Akanksha",Marble Dining Table,South West,Metro Emporium,11-12-2022, ₹ 460.84 , ₹ 12.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Elite Designs,04-12-2022, ₹ 344.39 , ₹ 10.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,20-12-2021, ₹ 22.63 , ₹ 12.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Metro Emporium,06-09-2022, ₹ 187.20 , ₹ 3.00 
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Metro Emporium,25-02-2022, ₹ 498.31 , ₹ 6.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Metro Emporium,12-11-2022, ₹ 359.62 , ₹ 1.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,13-08-2022, ₹ 429.71 , ₹ 7.00 
+"Arora, Megha",Wodden Coffee Table,North West,Home INDIA,04-04-2022, ₹ 80.55 , ₹ 16.00 
+"Arya, Gunjan",Glass Centre Table,North East,Style and Spa,18-05-2021, ₹ 107.75 , ₹ 7.00 
+"Bains, Gaurav",Glass Centre Table,South West,Elite Designs,06-12-2021, ₹ 20.40 , ₹ 3.00 
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,15-04-2021, ₹ 413.53 , ₹ 4.00 
+"Puri, Silky",Marble Dining Table,North East,Metro Emporium,14-03-2022, ₹ 411.84 , ₹ 12.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Style and Spa,29-03-2022, ₹ 147.54 , ₹ 7.00 
+"Bajaj, Birbal",Glass Centre Table,South East,Elite Designs,16-01-2021, ₹ 56.62 , ₹ 12.00 
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,05-11-2022, ₹ 154.02 , ₹ 8.00 
+"Bains, Gaurav",Wodden Coffee Table,South West,Elite Designs,23-07-2022, ₹ 91.36 , ₹ 2.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,10-05-2022, ₹ 234.85 , ₹ 2.00 
+"Saini, Gargi",Marble Dining Table,South West,Designer Homes,14-01-2022, ₹ 141.09 , ₹ 1.00 
+"Roy, Ajeet",Marble Dining Table,South West,Home INDIA,24-11-2022, ₹ 405.71 , ₹ 8.00 
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,26-04-2022, ₹ 96.89 , ₹ 10.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Designer Homes,04-03-2022, ₹ 281.70 , ₹ 14.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Style and Spa,16-01-2021, ₹ 740.83 , ₹ 6.00 
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Designer Homes,01-01-2022, ₹ 455.90 , ₹ 8.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,21-12-2021, ₹ 456.19 , ₹ 12.00 
+"Dube, Akanksha",Glass Centre Table,South West,Elite Designs,12-08-2022, ₹ 86.17 , ₹ 14.00 
+"Sinha, Anoop",Marble Dining Table,North East,Style and Spa,23-12-2022, ₹ 4.94 , ₹ 22.00 
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,01-08-2021, ₹ 349.24 , ₹ 12.00 
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Elite Designs,14-03-2022, ₹ 282.66 , ₹ 14.00 
+"Arora, Megha",Bamboo Foam Couch,North West,Home INDIA,22-01-2022, ₹ 519.82 , ₹ 11.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,24-05-2022, ₹ 135.35 , ₹ 7.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Metro Emporium,22-08-2022, ₹ 396.46 , ₹ 1.00 
+"Kale, Shipra",Marble Dining Table,South East,Home INDIA,26-08-2021, ₹ 127.78 , ₹ 5.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Designer Homes,25-11-2022, ₹ 5.96 , ₹ 11.00 
+"Bains, Gaurav",Glass Centre Table,South West,Home INDIA,04-04-2021, ₹ 110.53 , ₹ 6.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Home INDIA,10-06-2022, ₹ 125.26 , ₹ 3.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Metro Emporium,13-03-2021, ₹ 455.61 , ₹ 2.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,30-01-2021, ₹ 237.50 , ₹ 7.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Designer Homes,21-06-2021," ₹ 1,146.93 ", ₹ 6.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Designer Homes,15-05-2022, ₹ 232.98 , ₹ 2.00 
+"Kale, Shipra",Marble Dining Table,South East,Metro Emporium,06-08-2021, ₹ 264.72 , ₹ 4.00 
+"Bains, Gaurav",Marble Dining Table,South West,Metro Emporium,19-08-2021, ₹ 38.40 , ₹ 11.00 
+"Malik, Dev",Marble Dining Table,North West,Elite Designs,22-02-2022, ₹ 199.11 , ₹ 6.00 
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,30-12-2021, ₹ 117.97 , ₹ 22.00 
+"Dube, Akanksha",Marble Dining Table,South West,Elite Designs,06-12-2022, ₹ 9.46 , ₹ 13.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Elite Designs,24-12-2022, ₹ 109.45 , ₹ 3.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Elite Designs,28-01-2021, ₹ 52.19 , ₹ 14.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Designer Homes,31-01-2022, ₹ 107.20 , ₹ 16.00 
+"Arya, Gunjan",Glass Centre Table,North East,Home INDIA,04-06-2021, ₹ 90.30 , ₹ 13.00 
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,12-08-2022, ₹ 363.63 , ₹ 14.00 
+"Kale, Shipra",Glass Centre Table,South East,Designer Homes,06-05-2022, ₹ 53.61 , ₹ 7.00 
+"Roy, Ajeet",Marble Dining Table,South West,Home INDIA,27-02-2021, ₹ 55.79 , ₹ 15.00 
+"Bains, Gaurav",Glass Centre Table,South West,Style and Spa,15-02-2021, ₹ 42.14 , ₹ 19.00 
+"Sharma, Varun",Marble Dining Table,North East,Elite Designs,22-01-2021, ₹ 121.01 , ₹ 4.00 
+"Arora, Megha",Marble Dining Table,North West,Metro Emporium,23-09-2022, ₹ 539.05 , ₹ 6.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,24-01-2022, ₹ 416.96 , ₹ 16.00 
+"Puri, Silky",Glass Centre Table,North East,Elite Designs,16-07-2021, ₹ 88.84 , ₹ 2.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,06-04-2021, ₹ 205.31 , ₹ 5.00 
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Designer Homes,30-08-2022, ₹ 13.50 , ₹ 7.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Style and Spa,15-01-2021, ₹ 107.97 , ₹ 12.00 
+"Bajaj, Birbal",Glass Centre Table,South East,Style and Spa,08-01-2021, ₹ 57.31 , ₹ 13.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Elite Designs,20-07-2021, ₹ 231.69 , ₹ 15.00 
+"Arya, Gunjan",Glass Centre Table,North East,Elite Designs,09-09-2021, ₹ 116.42 , ₹ 14.00 
+"Malik, Dev",Marble Dining Table,North West,Designer Homes,19-08-2022, ₹ 517.09 , ₹ 1.00 
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Designer Homes,05-11-2021," ₹ 1,202.00 ", ₹ 7.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,16-05-2021, ₹ 182.62 , ₹ 16.00 
+"Arya, Gunjan",Glass Centre Table,North East,Home INDIA,09-07-2021, ₹ 16.90 , ₹ 13.00 
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,19-05-2022, ₹ 24.13 , ₹ 19.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Designer Homes,08-10-2022, ₹ 251.72 , ₹ 15.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Metro Emporium,07-01-2022, ₹ 143.03 , ₹ 16.00 
+"Arya, Gunjan",Glass Centre Table,North East,Elite Designs,10-04-2021, ₹ 108.81 , ₹ 14.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,05-07-2022, ₹ 248.49 , ₹ 8.00 
+"Sinha, Anoop",Marble Dining Table,North East,Home INDIA,19-06-2021, ₹ 223.66 , ₹ 15.00 
+"Roy, Ajeet",Marble Dining Table,South West,Metro Emporium,18-02-2022, ₹ 309.45 , ₹ 2.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Style and Spa,17-05-2022, ₹ 467.41 , ₹ 12.00 
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,27-02-2022, ₹ 37.14 , ₹ 6.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,03-11-2022, ₹ 43.56 , ₹ 8.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Designer Homes,25-06-2021, ₹ 157.88 , ₹ 10.00 
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Home INDIA,13-12-2022, ₹ 146.56 , ₹ 15.00 
+"Kale, Shipra",Marble Dining Table,South East,Home INDIA,28-12-2021, ₹ 528.86 , ₹ 10.00 
+"Arya, Gunjan",Marble Dining Table,North East,Designer Homes,27-06-2021, ₹ 286.72 , ₹ 16.00 
+"Saini, Gargi",Glass Centre Table,South West,Designer Homes,19-11-2021, ₹ 0.94 , ₹ 11.00 
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Designer Homes,22-11-2021, ₹ 323.56 , ₹ 16.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,01-02-2021, ₹ 502.68 , ₹ 6.00 
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,25-07-2021, ₹ 133.43 , ₹ 15.00 
+"Bains, Gaurav",Wodden Coffee Table,South West,Style and Spa,07-03-2022, ₹ 139.73 , ₹ 8.00 
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,15-10-2021, ₹ 37.82 , ₹ 2.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Metro Emporium,17-09-2021, ₹ 237.34 , ₹ 10.00 
+"Dube, Akanksha",Glass Centre Table,South West,Style and Spa,19-03-2022, ₹ 127.62 , ₹ 20.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Metro Emporium,05-07-2021, ₹ 173.16 , ₹ 7.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Home INDIA,20-05-2022, ₹ 37.93 , ₹ 8.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,28-10-2022," ₹ 1,049.38 ", ₹ 5.00 
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,03-10-2021, ₹ 131.76 , ₹ 21.00 
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,23-04-2021, ₹ 213.69 , ₹ 2.00 
+"Sinha, Anoop",Marble Dining Table,North East,Elite Designs,09-12-2022, ₹ 112.91 , ₹ 7.00 
+"Sharma, Varun",Glass Centre Table,North East,Designer Homes,25-06-2022, ₹ 12.74 , ₹ 3.00 
+"Arya, Gunjan",Glass Centre Table,North East,Style and Spa,21-12-2021, ₹ 51.63 , ₹ 21.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,28-01-2022, ₹ 20.34 , ₹ 16.00 
+"Sharma, Varun",Marble Dining Table,North East,Metro Emporium,15-04-2022, ₹ 250.38 , ₹ 13.00 
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,15-07-2022, ₹ 48.85 , ₹ 3.00 
+"Bajaj, Birbal",Glass Centre Table,South East,Elite Designs,19-03-2021, ₹ 52.09 , ₹ 5.00 
+"Malik, Dev",Wodden Coffee Table,North West,Style and Spa,12-07-2022, ₹ 146.31 , ₹ 14.00 
+"Roy, Ajeet",Glass Centre Table,South West,Designer Homes,11-12-2021, ₹ 41.47 , ₹ 7.00 
+"Puri, Silky",Glass Centre Table,North East,Elite Designs,28-06-2022, ₹ 43.27 , ₹ 6.00 
+"Kale, Shipra",Marble Dining Table,South East,Elite Designs,14-11-2022, ₹ 491.92 , ₹ 11.00 
+"Dube, Akanksha",Glass Centre Table,South West,Metro Emporium,26-06-2022, ₹ 107.62 , ₹ 16.00 
+"Arora, Megha",Glass Centre Table,North West,Metro Emporium,03-02-2022, ₹ 25.03 , ₹ 1.00 
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,29-11-2021, ₹ 147.58 , ₹ 13.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,19-08-2021, ₹ 9.60 , ₹ 2.00 
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Elite Designs,11-12-2022, ₹ 973.75 , ₹ 15.00 
+"Bains, Gaurav",Marble Dining Table,South West,Metro Emporium,27-05-2021, ₹ 506.70 , ₹ 3.00 
+"Puri, Silky",Marble Dining Table,North East,Metro Emporium,28-12-2021, ₹ 343.00 , ₹ 8.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Designer Homes,18-11-2022, ₹ 76.64 , ₹ 8.00 
+"Sharma, Varun",Marble Dining Table,North East,Style and Spa,27-10-2022, ₹ 296.15 , ₹ 17.00 
+"Bains, Gaurav",Glass Centre Table,South West,Home INDIA,30-04-2022, ₹ 26.06 , ₹ 6.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Style and Spa,22-11-2021, ₹ 270.81 , ₹ 8.00 
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Elite Designs,17-12-2021, ₹ 415.51 , ₹ 10.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,10-10-2022, ₹ 222.94 , ₹ 8.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Designer Homes,10-01-2022, ₹ 396.58 , ₹ 16.00 
+"Dube, Akanksha",Marble Dining Table,South West,Elite Designs,31-01-2021, ₹ 210.80 , ₹ 4.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Home INDIA,27-05-2022, ₹ 95.55 , ₹ 4.00 
+"Malik, Dev",Marble Dining Table,North West,Elite Designs,07-05-2021, ₹ 305.91 , ₹ 2.00 
+"Roy, Ajeet",Marble Dining Table,South West,Designer Homes,19-11-2021, ₹ 541.33 , ₹ 3.00 
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Elite Designs,10-01-2022, ₹ 735.71 , ₹ 7.00 
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,13-06-2021, ₹ 121.75 , ₹ 10.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Style and Spa,27-11-2022, ₹ 878.20 , ₹ 20.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Home INDIA,04-06-2021, ₹ 78.22 , ₹ 2.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Elite Designs,17-09-2021, ₹ 53.67 , ₹ 8.00 
+"Saini, Gargi",Marble Dining Table,South West,Metro Emporium,30-12-2021, ₹ 310.10 , ₹ 6.00 
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Elite Designs,05-05-2022, ₹ 60.87 , ₹ 11.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Designer Homes,08-10-2022, ₹ 369.14 , ₹ 1.00 
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,16-07-2022, ₹ 133.28 , ₹ 4.00 
+"Bains, Gaurav",Glass Centre Table,South West,Home INDIA,30-12-2021, ₹ 14.30 , ₹ 1.00 
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,18-09-2022, ₹ 513.03 , ₹ 14.00 
+"Puri, Silky",Marble Dining Table,North East,Style and Spa,23-03-2021, ₹ 414.42 , ₹ 17.00 
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,09-09-2022, ₹ 266.96 , ₹ 6.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,15-04-2021, ₹ 458.38 , ₹ 4.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,12-02-2021, ₹ 22.13 , ₹ 8.00 
+"Saini, Gargi",Marble Dining Table,South West,Designer Homes,04-11-2022, ₹ 244.26 , ₹ 12.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Home INDIA,01-01-2022, ₹ 118.19 , ₹ 16.00 
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,22-12-2022, ₹ 122.25 , ₹ 16.00 
+"Arya, Gunjan",Bamboo Foam Couch,North East,Home INDIA,20-09-2021, ₹ 254.67 , ₹ 12.00 
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,05-03-2021, ₹ 42.63 , ₹ 11.00 
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Elite Designs,06-06-2021, ₹ 508.98 , ₹ 10.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Style and Spa,08-07-2022, ₹ 18.83 , ₹ 19.00 
+"Sinha, Anoop",Glass Centre Table,North East,Style and Spa,28-06-2021, ₹ 115.12 , ₹ 13.00 
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Designer Homes,05-11-2021, ₹ 56.02 , ₹ 6.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Designer Homes,28-06-2021, ₹ 89.23 , ₹ 16.00 
+"Sinha, Anoop",Marble Dining Table,North East,Metro Emporium,23-04-2021, ₹ 67.43 , ₹ 1.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Elite Designs,31-10-2021, ₹ 199.35 , ₹ 4.00 
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,09-08-2022, ₹ 8.23 , ₹ 5.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Designer Homes,01-05-2022, ₹ 505.18 , ₹ 10.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Designer Homes,03-05-2022, ₹ 105.92 , ₹ 1.00 
+"Roy, Ajeet",Marble Dining Table,South West,Style and Spa,16-12-2022, ₹ 403.01 , ₹ 12.00 
+"Saini, Gargi",Glass Centre Table,South West,Designer Homes,30-12-2021, ₹ 119.25 , ₹ 5.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,07-07-2022, ₹ 93.20 , ₹ 7.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Metro Emporium,18-05-2021, ₹ 439.82 , ₹ 13.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,12-03-2021, ₹ 502.73 , ₹ 6.00 
+"Malik, Dev",Glass Centre Table,North West,Home INDIA,04-09-2022, ₹ 50.21 , ₹ 7.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Home INDIA,28-01-2022, ₹ 204.68 , ₹ 12.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Designer Homes,02-08-2022," ₹ 1,041.84 ", ₹ 5.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Style and Spa,15-08-2022, ₹ 58.29 , ₹ 17.00 
+"Malik, Dev",Glass Centre Table,North West,Home INDIA,15-05-2021, ₹ 108.54 , ₹ 3.00 
+"Sinha, Anoop",Glass Centre Table,North East,Style and Spa,18-04-2021, ₹ 86.59 , ₹ 13.00 
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Home INDIA,13-12-2021, ₹ 545.79 , ₹ 1.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Metro Emporium,27-12-2021, ₹ 470.96 , ₹ 3.00 
+"Arya, Gunjan",Wodden Coffee Table,North East,Designer Homes,13-01-2022, ₹ 73.63 , ₹ 1.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Elite Designs,01-05-2021, ₹ 334.72 , ₹ 8.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,22-02-2022, ₹ 455.53 , ₹ 21.00 
+"Malik, Dev",Wodden Coffee Table,North West,Home INDIA,20-05-2021, ₹ 98.25 , ₹ 12.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Elite Designs,25-09-2022, ₹ 250.70 , ₹ 6.00 
+"Arya, Gunjan",Marble Dining Table,North East,Designer Homes,08-10-2021, ₹ 475.26 , ₹ 6.00 
+"Bajaj, Birbal",Glass Centre Table,South East,Metro Emporium,12-06-2021, ₹ 17.66 , ₹ 15.00 
+"Dube, Akanksha",Glass Centre Table,South West,Home INDIA,15-07-2022, ₹ 100.18 , ₹ 8.00 
+"Arora, Megha",Bamboo Foam Couch,North West,Home INDIA,25-04-2022, ₹ 392.67 , ₹ 15.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Home INDIA,11-07-2022, ₹ 176.05 , ₹ 4.00 
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,25-12-2022, ₹ 60.32 , ₹ 12.00 
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,12-11-2021, ₹ 330.38 , ₹ 2.00 
+"Puri, Silky",Glass Centre Table,North East,Elite Designs,09-09-2022, ₹ 122.34 , ₹ 2.00 
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,07-01-2021, ₹ 79.99 , ₹ 7.00 
+"Dube, Akanksha",Glass Centre Table,South West,Style and Spa,19-11-2021, ₹ 39.68 , ₹ 14.00 
+"Arya, Gunjan",Bamboo Foam Couch,North East,Home INDIA,14-09-2021," ₹ 1,058.00 ", ₹ 11.00 
+"Arora, Megha",Marble Dining Table,North West,Elite Designs,27-09-2021, ₹ 379.93 , ₹ 1.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Style and Spa,30-12-2021, ₹ 250.11 , ₹ 10.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Style and Spa,06-02-2021, ₹ 13.81 , ₹ 19.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Metro Emporium,22-08-2021, ₹ 40.99 , ₹ 14.00 
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Home INDIA,08-10-2021, ₹ 338.59 , ₹ 16.00 
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Metro Emporium,23-02-2021, ₹ 217.52 , ₹ 13.00 
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,17-07-2022, ₹ 102.23 , ₹ 13.00 
+"Kale, Shipra",Glass Centre Table,South East,Elite Designs,11-12-2022, ₹ 123.89 , ₹ 16.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Elite Designs,27-06-2022, ₹ 108.14 , ₹ 14.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Metro Emporium,04-12-2022, ₹ 522.11 , ₹ 14.00 
+"Sinha, Anoop",Marble Dining Table,North East,Style and Spa,07-10-2022, ₹ 370.89 , ₹ 13.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Designer Homes,21-11-2022, ₹ 140.71 , ₹ 3.00 
+"Arora, Megha",Glass Centre Table,North West,Home INDIA,19-08-2022, ₹ 72.87 , ₹ 7.00 
+"Kale, Shipra",Marble Dining Table,South East,Style and Spa,14-01-2021, ₹ 486.33 , ₹ 14.00 
+"Bains, Gaurav",Glass Centre Table,South West,Style and Spa,01-04-2022, ₹ 82.57 , ₹ 10.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Elite Designs,10-12-2022, ₹ 880.36 , ₹ 5.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,25-10-2021, ₹ 840.49 , ₹ 2.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,23-04-2022, ₹ 244.05 , ₹ 13.00 
+"Kale, Shipra",Marble Dining Table,South East,Metro Emporium,11-05-2021, ₹ 247.58 , ₹ 16.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Designer Homes,03-09-2021, ₹ 24.31 , ₹ 13.00 
+"Bains, Gaurav",Marble Dining Table,South West,Metro Emporium,21-03-2021, ₹ 107.58 , ₹ 1.00 
+"Puri, Silky",Marble Dining Table,North East,Style and Spa,04-03-2021, ₹ 181.50 , ₹ 22.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Style and Spa,25-06-2022, ₹ 668.67 , ₹ 19.00 
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Style and Spa,13-12-2022, ₹ 17.20 , ₹ 12.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,17-09-2021, ₹ 255.73 , ₹ 8.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,28-08-2022, ₹ 15.67 , ₹ 13.00 
+"Arya, Gunjan",Wodden Coffee Table,North East,Home INDIA,12-08-2021, ₹ 226.24 , ₹ 14.00 
+"Saini, Gargi",Marble Dining Table,South West,Style and Spa,23-11-2021, ₹ 95.56 , ₹ 15.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,30-10-2021, ₹ 842.35 , ₹ 10.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Style and Spa,15-01-2021, ₹ 250.66 , ₹ 7.00 
+"Sinha, Anoop",Marble Dining Table,North East,Metro Emporium,10-04-2022, ₹ 33.87 , ₹ 6.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Elite Designs,24-02-2022, ₹ 352.43 , ₹ 12.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Elite Designs,21-06-2022, ₹ 286.25 , ₹ 7.00 
+"Arya, Gunjan",Marble Dining Table,North East,Metro Emporium,20-12-2021, ₹ 161.06 , ₹ 12.00 
+"Sinha, Anoop",Glass Centre Table,North East,Home INDIA,07-07-2022, ₹ 94.27 , ₹ 11.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Style and Spa,25-05-2021, ₹ 76.25 , ₹ 10.00 
+"Roy, Ajeet",Glass Centre Table,South West,Home INDIA,19-03-2022, ₹ 15.70 , ₹ 10.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Elite Designs,10-01-2022, ₹ 475.40 , ₹ 8.00 
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Elite Designs,15-06-2021, ₹ 40.40 , ₹ 6.00 
+"Bains, Gaurav",Marble Dining Table,South West,Designer Homes,30-09-2021, ₹ 490.59 , ₹ 1.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Metro Emporium,10-01-2022, ₹ 260.93 , ₹ 6.00 
+"Sharma, Varun",Marble Dining Table,North East,Elite Designs,08-04-2022, ₹ 159.09 , ₹ 4.00 
+"Dube, Akanksha",Glass Centre Table,South West,Home INDIA,15-07-2022, ₹ 37.35 , ₹ 13.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Home INDIA,22-11-2022, ₹ 279.01 , ₹ 7.00 
+"Roy, Ajeet",Marble Dining Table,South West,Metro Emporium,30-04-2021, ₹ 531.60 , ₹ 12.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Elite Designs,16-12-2022, ₹ 65.39 , ₹ 4.00 
+"Roy, Ajeet",Glass Centre Table,South West,Designer Homes,27-05-2022, ₹ 60.98 , ₹ 2.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Elite Designs,24-10-2022, ₹ 69.69 , ₹ 6.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Home INDIA,30-12-2022, ₹ 183.69 , ₹ 8.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,02-04-2022," ₹ 1,029.16 ", ₹ 13.00 
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,16-04-2021, ₹ 147.18 , ₹ 6.00 
+"Saini, Gargi",Marble Dining Table,South West,Designer Homes,09-04-2021, ₹ 538.81 , ₹ 2.00 
+"Bains, Gaurav",Marble Dining Table,South West,Elite Designs,19-08-2021, ₹ 17.20 , ₹ 3.00 
+"Puri, Silky",Marble Dining Table,North East,Elite Designs,29-07-2021, ₹ 287.46 , ₹ 3.00 
+"Kale, Shipra",Glass Centre Table,South East,Designer Homes,27-08-2022, ₹ 84.40 , ₹ 16.00 
+"Roy, Ajeet",Marble Dining Table,South West,Home INDIA,24-01-2021, ₹ 525.95 , ₹ 8.00 
+"Puri, Silky",Marble Dining Table,North East,Metro Emporium,26-06-2021, ₹ 346.15 , ₹ 6.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Style and Spa,22-02-2021, ₹ 215.56 , ₹ 20.00 
+"Kale, Shipra",Glass Centre Table,South East,Designer Homes,07-01-2022, ₹ 97.02 , ₹ 1.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,04-12-2021, ₹ 637.51 , ₹ 13.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Style and Spa,10-06-2021, ₹ 252.26 , ₹ 20.00 
+"Malik, Dev",Marble Dining Table,North West,Elite Designs,29-09-2022, ₹ 347.61 , ₹ 14.00 
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,29-10-2021, ₹ 35.68 , ₹ 13.00 
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Style and Spa,17-01-2021, ₹ 106.72 , ₹ 15.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,06-11-2022, ₹ 77.10 , ₹ 2.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Elite Designs,29-04-2022," ₹ 1,154.08 ", ₹ 8.00 
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Elite Designs,18-06-2021, ₹ 94.39 , ₹ 11.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Style and Spa,26-04-2021, ₹ 8.25 , ₹ 17.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Designer Homes,25-03-2022," ₹ 1,124.83 ", ₹ 11.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,09-02-2021, ₹ 179.22 , ₹ 1.00 
+"Roy, Ajeet",Glass Centre Table,South West,Metro Emporium,13-08-2021, ₹ 97.46 , ₹ 3.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,05-07-2021, ₹ 264.31 , ₹ 14.00 
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Metro Emporium,27-05-2022, ₹ 188.13 , ₹ 5.00 
+"Bains, Gaurav",Glass Centre Table,South West,Elite Designs,22-03-2022, ₹ 91.79 , ₹ 1.00 
+"Sharma, Varun",Glass Centre Table,North East,Home INDIA,22-06-2021, ₹ 16.55 , ₹ 3.00 
+"Sharma, Varun",Marble Dining Table,North East,Elite Designs,09-09-2022, ₹ 540.31 , ₹ 15.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Elite Designs,06-05-2022, ₹ 65.97 , ₹ 7.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Style and Spa,04-02-2022, ₹ 24.44 , ₹ 14.00 
+"Bains, Gaurav",Marble Dining Table,South West,Designer Homes,23-09-2022, ₹ 348.28 , ₹ 6.00 
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,10-05-2021, ₹ 36.88 , ₹ 5.00 
+"Sharma, Varun",Marble Dining Table,North East,Elite Designs,09-06-2022, ₹ 143.61 , ₹ 7.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,23-09-2022, ₹ 258.22 , ₹ 6.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Style and Spa,05-12-2022, ₹ 279.58 , ₹ 14.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Designer Homes,13-04-2021, ₹ 423.29 , ₹ 8.00 
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Style and Spa,16-12-2021," ₹ 1,004.54 ", ₹ 14.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Designer Homes,08-05-2021, ₹ 669.64 , ₹ 6.00 
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,23-11-2021, ₹ 74.37 , ₹ 21.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Metro Emporium,26-08-2021, ₹ 43.26 , ₹ 8.00 
+"Puri, Silky",Wodden Coffee Table,North East,Metro Emporium,03-06-2022, ₹ 107.22 , ₹ 4.00 
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,13-05-2022, ₹ 46.08 , ₹ 16.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Elite Designs,17-01-2022, ₹ 234.16 , ₹ 16.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,21-01-2022, ₹ 543.42 , ₹ 3.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Home INDIA,18-04-2022, ₹ 475.15 , ₹ 13.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Elite Designs,22-10-2021, ₹ 74.26 , ₹ 6.00 
+"Puri, Silky",Wodden Coffee Table,North East,Home INDIA,10-12-2021, ₹ 138.02 , ₹ 16.00 
+"Arya, Gunjan",Wodden Coffee Table,North East,Home INDIA,28-05-2021, ₹ 5.66 , ₹ 10.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,28-05-2021, ₹ 417.73 , ₹ 15.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Home INDIA,24-10-2022, ₹ 216.04 , ₹ 1.00 
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Style and Spa,10-07-2022, ₹ 249.91 , ₹ 10.00 
+"Puri, Silky",Marble Dining Table,North East,Elite Designs,07-01-2022, ₹ 403.59 , ₹ 2.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,10-01-2021," ₹ 1,122.62 ", ₹ 14.00 
+"Kale, Shipra",Glass Centre Table,South East,Metro Emporium,25-12-2021, ₹ 115.73 , ₹ 1.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,16-12-2022, ₹ 216.91 , ₹ 7.00 
+"Kale, Shipra",Marble Dining Table,South East,Metro Emporium,13-07-2021, ₹ 95.89 , ₹ 15.00 
+"Arya, Gunjan",Bamboo Foam Couch,North East,Style and Spa,09-07-2021, ₹ 638.49 , ₹ 16.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Elite Designs,29-11-2021, ₹ 215.78 , ₹ 3.00 
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,24-09-2021, ₹ 39.51 , ₹ 13.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Home INDIA,25-10-2021, ₹ 504.29 , ₹ 8.00 
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,18-03-2021, ₹ 397.44 , ₹ 12.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Style and Spa,11-02-2022, ₹ 71.17 , ₹ 12.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Metro Emporium,14-06-2021, ₹ 78.69 , ₹ 11.00 
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Home INDIA,14-05-2021, ₹ 289.22 , ₹ 11.00 
+"Malik, Dev",Wodden Coffee Table,North West,Designer Homes,11-01-2022, ₹ 60.93 , ₹ 12.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,19-11-2021, ₹ 356.50 , ₹ 11.00 
+"Saini, Gargi",Marble Dining Table,South West,Style and Spa,17-12-2021, ₹ 85.52 , ₹ 14.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Metro Emporium,20-05-2022, ₹ 771.02 , ₹ 14.00 
+"Arya, Gunjan",Wodden Coffee Table,North East,Designer Homes,22-11-2021, ₹ 101.16 , ₹ 3.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Style and Spa,21-05-2021, ₹ 493.08 , ₹ 20.00 
+"Saini, Gargi",Glass Centre Table,South West,Style and Spa,03-10-2022, ₹ 65.39 , ₹ 21.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Style and Spa,14-01-2022, ₹ 249.33 , ₹ 14.00 
+"Arora, Megha",Wodden Coffee Table,North West,Metro Emporium,12-05-2022, ₹ 248.76 , ₹ 15.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Style and Spa,06-10-2022, ₹ 748.59 , ₹ 15.00 
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Style and Spa,06-02-2021, ₹ 510.38 , ₹ 12.00 
+"Bains, Gaurav",Glass Centre Table,South West,Style and Spa,18-07-2021, ₹ 95.05 , ₹ 8.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Elite Designs,05-11-2022, ₹ 117.09 , ₹ 14.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,30-09-2022, ₹ 32.96 , ₹ 11.00 
+"Saini, Gargi",Glass Centre Table,South West,Designer Homes,12-08-2022, ₹ 0.91 , ₹ 1.00 
+"Saini, Gargi",Glass Centre Table,South West,Style and Spa,10-01-2022, ₹ 32.62 , ₹ 17.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Style and Spa,25-06-2021, ₹ 731.86 , ₹ 21.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,12-07-2021, ₹ 380.22 , ₹ 10.00 
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,12-02-2021, ₹ 220.12 , ₹ 4.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Home INDIA,01-11-2022, ₹ 51.57 , ₹ 14.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Designer Homes,12-09-2021, ₹ 38.18 , ₹ 4.00 
+"Roy, Ajeet",Marble Dining Table,South West,Designer Homes,09-03-2021, ₹ 392.74 , ₹ 1.00 
+"Malik, Dev",Wodden Coffee Table,North West,Elite Designs,21-10-2021, ₹ 138.85 , ₹ 7.00 
+"Roy, Ajeet",Glass Centre Table,South West,Home INDIA,01-07-2022, ₹ 114.49 , ₹ 8.00 
+"Sharma, Varun",Glass Centre Table,North East,Metro Emporium,12-05-2022, ₹ 19.62 , ₹ 11.00 
+"Roy, Ajeet",Marble Dining Table,South West,Home INDIA,28-07-2022, ₹ 73.61 , ₹ 15.00 
+"Puri, Silky",Wodden Coffee Table,North East,Elite Designs,26-05-2022, ₹ 204.51 , ₹ 13.00 
+"Malik, Dev",Glass Centre Table,North West,Home INDIA,29-08-2021, ₹ 65.98 , ₹ 5.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Style and Spa,06-01-2021, ₹ 430.82 , ₹ 10.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Elite Designs,08-03-2021, ₹ 165.77 , ₹ 12.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,11-11-2022, ₹ 316.37 , ₹ 11.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Style and Spa,20-10-2022, ₹ 585.47 , ₹ 12.00 
+"Saini, Gargi",Marble Dining Table,South West,Designer Homes,27-03-2021, ₹ 424.42 , ₹ 6.00 
+"Puri, Silky",Wodden Coffee Table,North East,Designer Homes,15-08-2022, ₹ 44.87 , ₹ 5.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Metro Emporium,29-05-2022, ₹ 178.82 , ₹ 14.00 
+"Bains, Gaurav",Glass Centre Table,South West,Home INDIA,25-04-2021, ₹ 37.13 , ₹ 7.00 
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,12-09-2021, ₹ 345.04 , ₹ 11.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Designer Homes,24-09-2021, ₹ 186.99 , ₹ 4.00 
+"Puri, Silky",Wodden Coffee Table,North East,Home INDIA,27-03-2022, ₹ 1.61 , ₹ 10.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Elite Designs,12-09-2021, ₹ 217.31 , ₹ 3.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Metro Emporium,11-02-2021," ₹ 1,112.85 ", ₹ 12.00 
+"Puri, Silky",Marble Dining Table,North East,Style and Spa,14-08-2021, ₹ 443.87 , ₹ 22.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,09-02-2021, ₹ 323.67 , ₹ 3.00 
+"Roy, Ajeet",Glass Centre Table,South West,Style and Spa,14-09-2021, ₹ 104.96 , ₹ 14.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Elite Designs,17-06-2022," ₹ 1,100.99 ", ₹ 1.00 
+"Malik, Dev",Glass Centre Table,North West,Metro Emporium,26-09-2021, ₹ 115.73 , ₹ 3.00 
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,14-09-2021, ₹ 447.92 , ₹ 8.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Designer Homes,06-05-2022, ₹ 525.81 , ₹ 10.00 
+"Kale, Shipra",Marble Dining Table,South East,Style and Spa,02-01-2022, ₹ 324.59 , ₹ 13.00 
+"Malik, Dev",Marble Dining Table,North West,Metro Emporium,05-04-2021, ₹ 229.17 , ₹ 3.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Metro Emporium,02-01-2022, ₹ 480.60 , ₹ 4.00 
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,07-02-2022, ₹ 77.20 , ₹ 1.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Style and Spa,13-06-2022, ₹ 411.53 , ₹ 12.00 
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,17-09-2022, ₹ 110.87 , ₹ 1.00 
+"Malik, Dev",Wodden Coffee Table,North West,Designer Homes,05-08-2022, ₹ 15.85 , ₹ 5.00 
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,04-09-2021, ₹ 0.69 , ₹ 10.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Designer Homes,28-10-2021, ₹ 324.58 , ₹ 5.00 
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,12-05-2022, ₹ 199.46 , ₹ 5.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,23-02-2021," ₹ 1,133.00 ", ₹ 19.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Designer Homes,31-05-2022," ₹ 1,157.05 ", ₹ 13.00 
+"Arya, Gunjan",Bamboo Foam Couch,North East,Style and Spa,25-11-2021, ₹ 858.40 , ₹ 15.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Style and Spa,30-07-2021, ₹ 102.64 , ₹ 13.00 
+"Arya, Gunjan",Wodden Coffee Table,North East,Metro Emporium,13-04-2021, ₹ 30.07 , ₹ 11.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Home INDIA,17-01-2021, ₹ 14.30 , ₹ 11.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Elite Designs,07-08-2021, ₹ 456.83 , ₹ 8.00 
+"Puri, Silky",Wodden Coffee Table,North East,Home INDIA,08-01-2022, ₹ 57.27 , ₹ 4.00 
+"Arora, Megha",Marble Dining Table,North West,Designer Homes,14-01-2022, ₹ 362.40 , ₹ 16.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Style and Spa,24-06-2022, ₹ 550.04 , ₹ 21.00 
+"Bains, Gaurav",Glass Centre Table,South West,Designer Homes,02-06-2022, ₹ 18.03 , ₹ 3.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Style and Spa,13-08-2022, ₹ 264.64 , ₹ 8.00 
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,12-02-2021, ₹ 219.20 , ₹ 6.00 
+"Saini, Gargi",Glass Centre Table,South West,Designer Homes,01-10-2022, ₹ 118.90 , ₹ 12.00 
+"Arora, Megha",Marble Dining Table,North West,Designer Homes,18-03-2022, ₹ 386.29 , ₹ 8.00 
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Home INDIA,28-10-2022, ₹ 92.27 , ₹ 14.00 
+"Roy, Ajeet",Marble Dining Table,South West,Style and Spa,03-10-2021, ₹ 87.02 , ₹ 6.00 
+"Arora, Megha",Wodden Coffee Table,North West,Elite Designs,03-12-2021, ₹ 226.71 , ₹ 10.00 
+"Bains, Gaurav",Glass Centre Table,South West,Home INDIA,07-08-2022, ₹ 37.25 , ₹ 3.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Style and Spa,28-10-2022, ₹ 245.03 , ₹ 20.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Elite Designs,10-05-2022, ₹ 20.81 , ₹ 11.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Metro Emporium,23-07-2021, ₹ 297.86 , ₹ 14.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,22-04-2021, ₹ 568.91 , ₹ 8.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Home INDIA,01-02-2021, ₹ 18.13 , ₹ 7.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Home INDIA,31-01-2021, ₹ 389.71 , ₹ 8.00 
+"Arora, Megha",Marble Dining Table,North West,Home INDIA,02-10-2022, ₹ 69.83 , ₹ 10.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,22-12-2022, ₹ 62.46 , ₹ 3.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Home INDIA,28-06-2022, ₹ 367.25 , ₹ 5.00 
+"Bains, Gaurav",Glass Centre Table,South West,Style and Spa,23-04-2021, ₹ 63.24 , ₹ 12.00 
+"Arora, Megha",Marble Dining Table,North West,Metro Emporium,24-04-2022, ₹ 179.13 , ₹ 2.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,14-12-2021, ₹ 232.27 , ₹ 7.00 
+"Puri, Silky",Glass Centre Table,North East,Designer Homes,07-07-2022, ₹ 39.08 , ₹ 16.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,17-07-2021, ₹ 113.44 , ₹ 2.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Style and Spa,06-02-2021, ₹ 359.57 , ₹ 16.00 
+"Arya, Gunjan",Marble Dining Table,North East,Designer Homes,05-12-2021, ₹ 204.12 , ₹ 14.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Home INDIA,30-09-2022, ₹ 678.87 , ₹ 16.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,16-01-2022, ₹ 399.14 , ₹ 6.00 
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Designer Homes,28-06-2021," ₹ 1,016.39 ", ₹ 15.00 
+"Bajaj, Birbal",Bamboo Foam Couch,South East,Metro Emporium,08-10-2022, ₹ 480.54 , ₹ 16.00 
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,14-10-2021, ₹ 82.83 , ₹ 1.00 
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,28-08-2022, ₹ 64.65 , ₹ 14.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,08-11-2022, ₹ 14.21 , ₹ 10.00 
+"Arya, Gunjan",Glass Centre Table,North East,Style and Spa,12-11-2021, ₹ 76.58 , ₹ 11.00 
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Elite Designs,29-07-2022, ₹ 10.67 , ₹ 10.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,26-11-2021, ₹ 606.14 , ₹ 15.00 
+"Arora, Megha",Wodden Coffee Table,North West,Elite Designs,09-09-2022, ₹ 164.90 , ₹ 1.00 
+"Puri, Silky",Marble Dining Table,North East,Home INDIA,20-04-2021, ₹ 66.12 , ₹ 5.00 
+"Malik, Dev",Marble Dining Table,North West,Elite Designs,15-11-2022, ₹ 147.34 , ₹ 2.00 
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Home INDIA,10-07-2022, ₹ 163.19 , ₹ 6.00 
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,03-09-2022, ₹ 436.65 , ₹ 11.00 
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Style and Spa,06-02-2021, ₹ 457.12 , ₹ 7.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Home INDIA,11-07-2022," ₹ 1,074.33 ", ₹ 7.00 
+"Dube, Akanksha",Glass Centre Table,South West,Style and Spa,18-01-2022, ₹ 57.17 , ₹ 8.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Home INDIA,06-12-2022, ₹ 163.53 , ₹ 16.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Elite Designs,16-07-2021, ₹ 100.12 , ₹ 6.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Home INDIA,11-01-2021, ₹ 993.57 , ₹ 2.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Designer Homes,28-09-2021, ₹ 62.26 , ₹ 4.00 
+"Arora, Megha",Marble Dining Table,North West,Metro Emporium,20-09-2021, ₹ 98.19 , ₹ 16.00 
+"Malik, Dev",Glass Centre Table,North West,Home INDIA,02-02-2021, ₹ 39.32 , ₹ 5.00 
+"Puri, Silky",Wodden Coffee Table,North East,Style and Spa,16-11-2021, ₹ 136.23 , ₹ 16.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Elite Designs,19-02-2021, ₹ 451.40 , ₹ 10.00 
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Designer Homes,16-01-2022, ₹ 268.75 , ₹ 14.00 
+"Malik, Dev",Wodden Coffee Table,North West,Elite Designs,25-06-2021, ₹ 19.08 , ₹ 5.00 
+"Kale, Shipra",Glass Centre Table,South East,Home INDIA,01-01-2022, ₹ 117.44 , ₹ 12.00 
+"Bains, Gaurav",Wodden Coffee Table,South West,Metro Emporium,07-05-2022, ₹ 37.19 , ₹ 3.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,20-07-2021, ₹ 315.75 , ₹ 14.00 
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,19-02-2021, ₹ 0.10 , ₹ 22.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Metro Emporium,19-05-2022, ₹ 20.11 , ₹ 8.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Elite Designs,14-01-2022, ₹ 97.71 , ₹ 16.00 
+"Arora, Megha",Marble Dining Table,North West,Elite Designs,12-04-2022, ₹ 44.72 , ₹ 7.00 
+"Bains, Gaurav",Glass Centre Table,South West,Metro Emporium,06-05-2022, ₹ 65.71 , ₹ 12.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Style and Spa,23-12-2022, ₹ 212.42 , ₹ 10.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Elite Designs,16-03-2021, ₹ 228.37 , ₹ 12.00 
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,02-09-2022, ₹ 401.73 , ₹ 5.00 
+"Roy, Ajeet",Marble Dining Table,South West,Style and Spa,12-04-2022, ₹ 345.06 , ₹ 16.00 
+"Arora, Megha",Marble Dining Table,North West,Home INDIA,13-06-2022, ₹ 93.39 , ₹ 12.00 
+"Puri, Silky",Glass Centre Table,North East,Style and Spa,19-02-2021, ₹ 29.63 , ₹ 16.00 
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,12-02-2021, ₹ 98.98 , ₹ 8.00 
+"Sharma, Varun",Marble Dining Table,North East,Style and Spa,25-11-2021, ₹ 533.07 , ₹ 8.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Metro Emporium,29-09-2022, ₹ 22.79 , ₹ 11.00 
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Style and Spa,08-08-2022, ₹ 61.24 , ₹ 17.00 
+"Bains, Gaurav",Glass Centre Table,South West,Designer Homes,23-10-2021, ₹ 93.95 , ₹ 13.00 
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,24-09-2022, ₹ 475.61 , ₹ 11.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Metro Emporium,30-07-2021, ₹ 230.74 , ₹ 8.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Metro Emporium,01-10-2022, ₹ 95.30 , ₹ 12.00 
+"Puri, Silky",Glass Centre Table,North East,Home INDIA,21-01-2022, ₹ 11.21 , ₹ 15.00 
+"Roy, Ajeet",Glass Centre Table,South West,Home INDIA,20-09-2021, ₹ 11.27 , ₹ 15.00 
+"Arya, Gunjan",Glass Centre Table,North East,Home INDIA,22-11-2021, ₹ 27.01 , ₹ 12.00 
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,26-08-2021, ₹ 121.67 , ₹ 13.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Designer Homes,07-04-2022, ₹ 263.94 , ₹ 10.00 
+"Saini, Gargi",Glass Centre Table,South West,Home INDIA,18-04-2022, ₹ 92.92 , ₹ 7.00 
+"Saini, Gargi",Marble Dining Table,South West,Style and Spa,29-01-2022, ₹ 324.72 , ₹ 19.00 
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,08-07-2022, ₹ 92.93 , ₹ 3.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,11-02-2022, ₹ 215.68 , ₹ 7.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,17-05-2022, ₹ 230.09 , ₹ 15.00 
+"Kale, Shipra",Glass Centre Table,South East,Elite Designs,16-10-2021, ₹ 72.35 , ₹ 4.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Home INDIA,12-03-2021, ₹ 20.61 , ₹ 16.00 
+"Arya, Gunjan",Marble Dining Table,North East,Home INDIA,20-11-2021, ₹ 296.25 , ₹ 7.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,30-12-2022, ₹ 219.56 , ₹ 15.00 
+"Arora, Megha",Marble Dining Table,North West,Elite Designs,03-04-2022, ₹ 489.66 , ₹ 6.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Designer Homes,02-04-2021, ₹ 292.80 , ₹ 10.00 
+"Sinha, Anoop",Marble Dining Table,North East,Home INDIA,02-05-2022, ₹ 56.48 , ₹ 4.00 
+"Malik, Dev",Glass Centre Table,North West,Metro Emporium,04-04-2022, ₹ 47.67 , ₹ 2.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Home INDIA,11-11-2022, ₹ 15.35 , ₹ 14.00 
+"Roy, Ajeet",Marble Dining Table,South West,Designer Homes,30-05-2022, ₹ 404.06 , ₹ 10.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,30-04-2022," ₹ 1,068.16 ", ₹ 12.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,06-06-2022, ₹ 166.80 , ₹ 6.00 
+"Bajaj, Birbal",Glass Centre Table,South East,Elite Designs,09-08-2022, ₹ 121.28 , ₹ 8.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Home INDIA,30-09-2022, ₹ 79.68 , ₹ 3.00 
+"Malik, Dev",Glass Centre Table,North West,Style and Spa,08-11-2021, ₹ 124.05 , ₹ 10.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,27-05-2021, ₹ 442.45 , ₹ 11.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Metro Emporium,20-11-2021, ₹ 421.60 , ₹ 5.00 
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,14-05-2021, ₹ 20.08 , ₹ 12.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Style and Spa,03-06-2022, ₹ 99.51 , ₹ 15.00 
+"Puri, Silky",Marble Dining Table,North East,Elite Designs,19-06-2022, ₹ 50.32 , ₹ 3.00 
+"Puri, Silky",Wodden Coffee Table,North East,Metro Emporium,09-04-2021, ₹ 218.33 , ₹ 14.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,28-02-2021," ₹ 1,217.93 ", ₹ 10.00 
+"Roy, Ajeet",Glass Centre Table,South West,Metro Emporium,19-11-2022, ₹ 22.68 , ₹ 13.00 
+"Bajaj, Birbal",Glass Centre Table,South East,Designer Homes,25-08-2022, ₹ 16.01 , ₹ 8.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,25-12-2021, ₹ 761.49 , ₹ 22.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Elite Designs,06-06-2022, ₹ 536.20 , ₹ 2.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Elite Designs,22-10-2021, ₹ 223.27 , ₹ 14.00 
+"Arora, Megha",Bamboo Foam Couch,North West,Home INDIA,10-09-2021, ₹ 26.95 , ₹ 1.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Home INDIA,23-12-2021, ₹ 805.08 , ₹ 6.00 
+"Arora, Megha",Marble Dining Table,North West,Designer Homes,20-05-2021, ₹ 88.34 , ₹ 16.00 
+"Bains, Gaurav",Wodden Coffee Table,South West,Designer Homes,27-08-2021, ₹ 150.19 , ₹ 3.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,26-07-2022, ₹ 53.23 , ₹ 19.00 
+"Arya, Gunjan",Wodden Coffee Table,North East,Home INDIA,20-03-2021, ₹ 14.58 , ₹ 13.00 
+"Sharma, Varun",Marble Dining Table,North East,Elite Designs,14-03-2021, ₹ 382.69 , ₹ 5.00 
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,14-01-2022, ₹ 127.96 , ₹ 13.00 
+"Kale, Shipra",Glass Centre Table,South East,Style and Spa,05-09-2021, ₹ 106.79 , ₹ 12.00 
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,01-01-2022, ₹ 119.11 , ₹ 10.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Style and Spa,13-07-2021, ₹ 618.55 , ₹ 15.00 
+"Arora, Megha",Marble Dining Table,North West,Home INDIA,18-07-2022, ₹ 245.74 , ₹ 5.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Elite Designs,28-01-2022," ₹ 1,279.32 ", ₹ 2.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,25-11-2022, ₹ 829.35 , ₹ 11.00 
+"Bains, Gaurav",Marble Dining Table,South West,Home INDIA,18-03-2022, ₹ 141.70 , ₹ 4.00 
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Style and Spa,12-06-2022, ₹ 175.13 , ₹ 8.00 
+"Dube, Akanksha",Glass Centre Table,South West,Style and Spa,31-07-2022, ₹ 13.32 , ₹ 8.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Home INDIA,18-05-2021, ₹ 36.49 , ₹ 5.00 
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,13-12-2021, ₹ 72.52 , ₹ 6.00 
+"Arya, Gunjan",Wodden Coffee Table,North East,Elite Designs,27-06-2021, ₹ 18.30 , ₹ 7.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Metro Emporium,11-02-2021, ₹ 945.70 , ₹ 4.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,06-02-2021, ₹ 473.02 , ₹ 13.00 
+"Sharma, Varun",Glass Centre Table,North East,Elite Designs,03-07-2022, ₹ 36.17 , ₹ 4.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Elite Designs,13-11-2022, ₹ 428.16 , ₹ 7.00 
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,22-11-2021, ₹ 438.89 , ₹ 8.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Designer Homes,08-07-2022, ₹ 137.75 , ₹ 5.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Designer Homes,20-05-2022, ₹ 252.70 , ₹ 14.00 
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Designer Homes,25-02-2022, ₹ 450.86 , ₹ 3.00 
+"Malik, Dev",Marble Dining Table,North West,Style and Spa,01-07-2022, ₹ 12.87 , ₹ 10.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,28-04-2022," ₹ 1,091.16 ", ₹ 11.00 
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,17-06-2022, ₹ 124.27 , ₹ 12.00 
+"Puri, Silky",Marble Dining Table,North East,Elite Designs,22-10-2021, ₹ 517.99 , ₹ 7.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Style and Spa,02-07-2022, ₹ 654.53 , ₹ 11.00 
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Elite Designs,12-08-2022, ₹ 377.57 , ₹ 12.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Style and Spa,31-05-2022, ₹ 555.72 , ₹ 8.00 
+"Dube, Akanksha",Marble Dining Table,South West,Home INDIA,11-03-2022, ₹ 100.25 , ₹ 13.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,08-01-2022, ₹ 818.94 , ₹ 20.00 
+"Roy, Ajeet",Marble Dining Table,South West,Metro Emporium,03-07-2022, ₹ 261.74 , ₹ 14.00 
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Designer Homes,21-09-2021, ₹ 219.46 , ₹ 13.00 
+"Bains, Gaurav",Marble Dining Table,South West,Designer Homes,12-06-2022, ₹ 247.24 , ₹ 10.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Elite Designs,02-08-2021, ₹ 94.59 , ₹ 11.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Style and Spa,24-09-2022, ₹ 99.11 , ₹ 21.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Metro Emporium,09-01-2022, ₹ 297.72 , ₹ 7.00 
+"Roy, Ajeet",Marble Dining Table,South West,Elite Designs,26-10-2021, ₹ 46.43 , ₹ 4.00 
+"Malik, Dev",Wodden Coffee Table,North West,Designer Homes,09-10-2022, ₹ 101.49 , ₹ 13.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,06-11-2022, ₹ 20.68 , ₹ 7.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Elite Designs,30-01-2021, ₹ 135.00 , ₹ 11.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Style and Spa,05-08-2021, ₹ 516.27 , ₹ 16.00 
+"Saini, Gargi",Glass Centre Table,South West,Home INDIA,09-04-2021, ₹ 103.62 , ₹ 14.00 
+"Sinha, Anoop",Glass Centre Table,North East,Designer Homes,18-04-2021, ₹ 122.41 , ₹ 13.00 
+"Sinha, Anoop",Marble Dining Table,North East,Designer Homes,10-01-2022, ₹ 173.68 , ₹ 12.00 
+"Puri, Silky",Glass Centre Table,North East,Elite Designs,08-10-2021, ₹ 36.39 , ₹ 4.00 
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,25-06-2021, ₹ 121.50 , ₹ 11.00 
+"Kale, Shipra",7 Seater Sofa & Recliner,South East,Metro Emporium,19-07-2021, ₹ 487.45 , ₹ 2.00 
+"Saini, Gargi",Glass Centre Table,South West,Metro Emporium,07-10-2022, ₹ 82.70 , ₹ 16.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Designer Homes,30-12-2021, ₹ 169.92 , ₹ 3.00 
+"Malik, Dev",Marble Dining Table,North West,Metro Emporium,24-01-2022, ₹ 471.95 , ₹ 12.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Designer Homes,22-02-2022," ₹ 1,250.93 ", ₹ 14.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Style and Spa,11-06-2021, ₹ 200.79 , ₹ 14.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,02-04-2021, ₹ 429.73 , ₹ 7.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Metro Emporium,13-03-2021, ₹ 585.79 , ₹ 8.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Designer Homes,29-04-2021, ₹ 248.05 , ₹ 8.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Metro Emporium,01-02-2021, ₹ 386.61 , ₹ 5.00 
+"Saini, Gargi",Marble Dining Table,South West,Elite Designs,30-03-2021, ₹ 8.95 , ₹ 16.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Elite Designs,04-03-2021, ₹ 48.63 , ₹ 4.00 
+"Saini, Gargi",Marble Dining Table,South West,Style and Spa,03-09-2021, ₹ 419.32 , ₹ 12.00 
+"Bains, Gaurav",Marble Dining Table,South West,Style and Spa,29-03-2021, ₹ 513.04 , ₹ 22.00 
+"Malik, Dev",Wodden Coffee Table,North West,Metro Emporium,20-02-2021, ₹ 134.40 , ₹ 8.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Style and Spa,08-01-2022, ₹ 188.24 , ₹ 22.00 
+"Arya, Gunjan",Glass Centre Table,North East,Metro Emporium,23-11-2021, ₹ 116.48 , ₹ 4.00 
+"Puri, Silky",Glass Centre Table,North East,Home INDIA,11-01-2021, ₹ 3.41 , ₹ 11.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Elite Designs,26-05-2022, ₹ 132.70 , ₹ 15.00 
+"Bains, Gaurav",Marble Dining Table,South West,Metro Emporium,08-04-2022, ₹ 440.17 , ₹ 11.00 
+"Puri, Silky",Marble Dining Table,North East,Designer Homes,18-07-2022, ₹ 95.70 , ₹ 3.00 
+"Sharma, Varun",Marble Dining Table,North East,Metro Emporium,28-11-2021, ₹ 500.58 , ₹ 10.00 
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,03-09-2021, ₹ 13.94 , ₹ 3.00 
+"Sinha, Anoop",Glass Centre Table,North East,Metro Emporium,23-08-2021, ₹ 63.62 , ₹ 10.00 
+"Puri, Silky",Wodden Coffee Table,North East,Designer Homes,06-08-2021, ₹ 219.23 , ₹ 16.00 
+"Malik, Dev",Wodden Coffee Table,North West,Designer Homes,24-04-2021, ₹ 192.20 , ₹ 13.00 
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,30-10-2021, ₹ 337.45 , ₹ 5.00 
+"Bains, Gaurav",Glass Centre Table,South West,Designer Homes,24-07-2022, ₹ 47.85 , ₹ 2.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Designer Homes,01-04-2022, ₹ 123.58 , ₹ 11.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,31-05-2021, ₹ 376.27 , ₹ 5.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Metro Emporium,07-11-2022, ₹ 271.14 , ₹ 6.00 
+"Arora, Megha",Glass Centre Table,North West,Metro Emporium,11-03-2022, ₹ 3.39 , ₹ 2.00 
+"Saini, Gargi",Glass Centre Table,South West,Elite Designs,25-10-2021, ₹ 119.70 , ₹ 13.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Designer Homes,01-05-2021, ₹ 175.69 , ₹ 13.00 
+"Arora, Megha",7 Seater Sofa & Recliner,North West,Metro Emporium,11-03-2022, ₹ 473.50 , ₹ 2.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Metro Emporium,12-11-2021, ₹ 203.38 , ₹ 1.00 
+"Bains, Gaurav",Marble Dining Table,South West,Elite Designs,14-09-2021, ₹ 4.17 , ₹ 5.00 
+"Bajaj, Birbal",Marble Dining Table,South East,Style and Spa,20-05-2021, ₹ 158.76 , ₹ 16.00 
+"Bains, Gaurav",Marble Dining Table,South West,Elite Designs,23-05-2021, ₹ 77.07 , ₹ 3.00 
+"Puri, Silky",Glass Centre Table,North East,Designer Homes,09-09-2021, ₹ 25.46 , ₹ 1.00 
+"Puri, Silky",Glass Centre Table,North East,Metro Emporium,29-07-2022, ₹ 6.91 , ₹ 11.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Elite Designs,10-09-2021, ₹ 992.47 , ₹ 15.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Designer Homes,31-05-2022, ₹ 508.06 , ₹ 10.00 
+"Arora, Megha",Marble Dining Table,North West,Metro Emporium,08-10-2021, ₹ 328.44 , ₹ 1.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,14-10-2022, ₹ 810.27 , ₹ 3.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Home INDIA,04-11-2021, ₹ 139.85 , ₹ 2.00 
+"Roy, Ajeet",Glass Centre Table,South West,Elite Designs,05-11-2022, ₹ 29.85 , ₹ 1.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Designer Homes,16-12-2022, ₹ 35.73 , ₹ 5.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,27-07-2021, ₹ 986.17 , ₹ 2.00 
+"Puri, Silky",Marble Dining Table,North East,Designer Homes,16-08-2022, ₹ 427.23 , ₹ 16.00 
+"Arora, Megha",Bamboo Foam Couch,North West,Home INDIA,28-07-2022, ₹ 357.84 , ₹ 11.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Elite Designs,05-04-2021, ₹ 258.54 , ₹ 15.00 
+"Kale, Shipra",Marble Dining Table,South East,Designer Homes,09-09-2022, ₹ 387.47 , ₹ 8.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Designer Homes,18-06-2021," ₹ 1,111.15 ", ₹ 3.00 
+"Sharma, Varun",Glass Centre Table,North East,Home INDIA,31-07-2021, ₹ 15.41 , ₹ 11.00 
+"Malik, Dev",Glass Centre Table,North West,Designer Homes,26-09-2022, ₹ 14.85 , ₹ 7.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Style and Spa,30-09-2021, ₹ 930.06 , ₹ 6.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Designer Homes,16-04-2022, ₹ 975.75 , ₹ 10.00 
+"Roy, Ajeet",Glass Centre Table,South West,Designer Homes,04-12-2022, ₹ 117.09 , ₹ 5.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Metro Emporium,29-03-2022, ₹ 433.20 , ₹ 6.00 
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,13-04-2021, ₹ 292.35 , ₹ 15.00 
+"Malik, Dev",Marble Dining Table,North West,Designer Homes,18-11-2022, ₹ 546.41 , ₹ 3.00 
+"Puri, Silky",Marble Dining Table,North East,Designer Homes,22-10-2021, ₹ 111.96 , ₹ 2.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Metro Emporium,30-04-2021, ₹ 919.83 , ₹ 2.00 
+"Dube, Akanksha",Marble Dining Table,South West,Style and Spa,15-10-2021, ₹ 313.30 , ₹ 14.00 
+"Puri, Silky",Marble Dining Table,North East,Home INDIA,04-12-2021, ₹ 270.94 , ₹ 16.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Metro Emporium,02-12-2022, ₹ 348.22 , ₹ 16.00 
+"Roy, Ajeet",Marble Dining Table,South West,Designer Homes,24-12-2022, ₹ 540.86 , ₹ 16.00 
+"Arya, Gunjan",Wodden Coffee Table,North East,Home INDIA,01-01-2022, ₹ 233.30 , ₹ 4.00 
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,12-02-2021, ₹ 93.31 , ₹ 15.00 
+"Sinha, Anoop",7 Seater Sofa & Recliner,North West,Home INDIA,05-05-2022, ₹ 52.42 , ₹ 1.00 
+"Puri, Silky",Wodden Coffee Table,North East,Elite Designs,01-02-2022, ₹ 41.28 , ₹ 4.00 
+"Malik, Dev",Wodden Coffee Table,North West,Style and Spa,06-09-2021, ₹ 107.60 , ₹ 10.00 
+"Saini, Gargi",Glass Centre Table,South West,Elite Designs,16-07-2022, ₹ 9.09 , ₹ 16.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,27-06-2022, ₹ 168.34 , ₹ 3.00 
+"Sinha, Anoop",Glass Centre Table,North East,Metro Emporium,23-05-2022, ₹ 10.14 , ₹ 2.00 
+"Bains, Gaurav",Marble Dining Table,South West,Designer Homes,27-08-2021, ₹ 349.55 , ₹ 16.00 
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,23-08-2022, ₹ 412.47 , ₹ 1.00 
+"Malik, Dev",Bamboo Foam Couch,North West,Elite Designs,04-07-2021, ₹ 504.45 , ₹ 12.00 
+"Roy, Ajeet",Marble Dining Table,South West,Elite Designs,27-12-2021, ₹ 36.79 , ₹ 3.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Style and Spa,15-03-2022, ₹ 40.74 , ₹ 8.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Style and Spa,26-07-2021, ₹ 401.01 , ₹ 13.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Metro Emporium,17-12-2021, ₹ 432.13 , ₹ 2.00 
+"Arya, Gunjan",Bamboo Foam Couch,North East,Elite Designs,23-07-2021," ₹ 1,153.72 ", ₹ 2.00 
+"Puri, Silky",7 Seater Sofa & Recliner,North East,Home INDIA,28-10-2021, ₹ 51.13 , ₹ 2.00 
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Style and Spa,27-03-2022, ₹ 262.48 , ₹ 20.00 
+"Puri, Silky",Marble Dining Table,North East,Elite Designs,16-08-2022, ₹ 379.54 , ₹ 10.00 
+"Arora, Megha",Bamboo Foam Couch,North West,Metro Emporium,23-07-2021," ₹ 1,130.32 ", ₹ 16.00 
+"Arya, Gunjan",Marble Dining Table,North East,Style and Spa,09-04-2021, ₹ 454.47 , ₹ 20.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Home INDIA,15-11-2021," ₹ 1,274.05 ", ₹ 3.00 
+"Sharma, Varun",Glass Centre Table,North East,Elite Designs,26-07-2021, ₹ 83.13 , ₹ 10.00 
+"Bains, Gaurav",7 Seater Sofa & Recliner,South West,Metro Emporium,11-02-2022, ₹ 542.75 , ₹ 7.00 
+"Arya, Gunjan",7 Seater Sofa & Recliner,North East,Designer Homes,25-06-2021, ₹ 180.16 , ₹ 8.00 
+"Bains, Gaurav",Marble Dining Table,South West,Home INDIA,27-06-2021, ₹ 371.64 , ₹ 2.00 
+"Puri, Silky",Wodden Coffee Table,North East,Style and Spa,10-01-2022, ₹ 251.88 , ₹ 17.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Style and Spa,29-05-2022, ₹ 213.58 , ₹ 19.00 
+"Arora, Megha",Glass Centre Table,North West,Elite Designs,22-02-2022, ₹ 65.87 , ₹ 3.00 
+"Dube, Akanksha",Wodden Coffee Table,South West,Home INDIA,20-11-2022, ₹ 119.88 , ₹ 3.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Designer Homes,01-10-2021, ₹ 287.84 , ₹ 13.00 
+"Sharma, Varun",Glass Centre Table,North East,Style and Spa,27-03-2021, ₹ 125.64 , ₹ 22.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,09-04-2022, ₹ 441.28 , ₹ 4.00 
+"Dube, Akanksha",Glass Centre Table,South West,Designer Homes,15-09-2022, ₹ 6.11 , ₹ 16.00 
+"Kale, Shipra",Marble Dining Table,South East,Elite Designs,01-02-2022, ₹ 365.02 , ₹ 16.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Designer Homes,27-02-2022, ₹ 193.99 , ₹ 8.00 
+"Arora, Megha",Wodden Coffee Table,North West,Style and Spa,23-09-2022, ₹ 108.78 , ₹ 22.00 
+"Bains, Gaurav",Marble Dining Table,South West,Home INDIA,02-11-2021, ₹ 87.59 , ₹ 2.00 
+"Dube, Akanksha",7 Seater Sofa & Recliner,South West,Elite Designs,07-08-2022, ₹ 406.34 , ₹ 11.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Metro Emporium,18-10-2022, ₹ 507.55 , ₹ 8.00 
+"Sinha, Anoop",Wodden Coffee Table,North East,Home INDIA,26-05-2022, ₹ 152.14 , ₹ 14.00 
+"Puri, Silky",Marble Dining Table,North East,Home INDIA,16-07-2021, ₹ 484.19 , ₹ 14.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Home INDIA,26-03-2021, ₹ 18.96 , ₹ 8.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Designer Homes,11-01-2022, ₹ 750.40 , ₹ 7.00 
+"Malik, Dev",Wodden Coffee Table,North West,Style and Spa,05-08-2021, ₹ 48.40 , ₹ 22.00 
+"Malik, Dev",Glass Centre Table,North West,Elite Designs,15-09-2022, ₹ 20.86 , ₹ 7.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Designer Homes,11-07-2021, ₹ 195.57 , ₹ 15.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Style and Spa,11-01-2022, ₹ 165.08 , ₹ 6.00 
+"Sharma, Varun",Wodden Coffee Table,North East,Metro Emporium,14-11-2022, ₹ 102.74 , ₹ 6.00 
+"Saini, Gargi",Marble Dining Table,South West,Home INDIA,16-12-2022, ₹ 283.72 , ₹ 5.00 
+"Sharma, Varun",Marble Dining Table,North East,Style and Spa,15-12-2022, ₹ 356.38 , ₹ 14.00 
+"Arora, Megha",Wodden Coffee Table,North West,Style and Spa,08-10-2022, ₹ 90.99 , ₹ 6.00 
+"Puri, Silky",Marble Dining Table,North East,Home INDIA,02-12-2021, ₹ 443.89 , ₹ 15.00 
+"Sharma, Varun",Marble Dining Table,North East,Designer Homes,25-11-2022, ₹ 396.81 , ₹ 11.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Elite Designs,12-03-2021," ₹ 1,135.71 ", ₹ 8.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Designer Homes,28-05-2021, ₹ 164.73 , ₹ 1.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Home INDIA,02-08-2022, ₹ 95.28 , ₹ 7.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Elite Designs,21-06-2022," ₹ 1,020.13 ", ₹ 13.00 
+"Arora, Megha",Wodden Coffee Table,North West,Designer Homes,07-07-2022, ₹ 170.62 , ₹ 3.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Elite Designs,04-11-2022, ₹ 17.47 , ₹ 7.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Home INDIA,04-11-2022, ₹ 181.18 , ₹ 12.00 
+"Bajaj, Birbal",Wodden Coffee Table,South East,Home INDIA,14-01-2021, ₹ 159.26 , ₹ 11.00 
+"Roy, Ajeet",Wodden Coffee Table,South West,Metro Emporium,21-08-2021, ₹ 228.70 , ₹ 1.00 
+"Malik, Dev",Marble Dining Table,North West,Style and Spa,03-12-2021, ₹ 360.73 , ₹ 14.00 
+"Kale, Shipra",Wodden Coffee Table,South East,Metro Emporium,15-12-2022, ₹ 230.84 , ₹ 6.00 
+"Bajaj, Birbal",7 Seater Sofa & Recliner,South East,Home INDIA,22-02-2021, ₹ 9.03 , ₹ 2.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Home INDIA,17-01-2022, ₹ 9.73 , ₹ 13.00 
+"Saini, Gargi",Wodden Coffee Table,South West,Designer Homes,16-04-2021, ₹ 87.45 , ₹ 13.00 
+"Sinha, Anoop",Glass Centre Table,North East,Style and Spa,25-04-2021, ₹ 65.65 , ₹ 11.00 
+"Roy, Ajeet",Glass Centre Table,South West,Home INDIA,26-06-2021, ₹ 82.14 , ₹ 12.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,12-11-2021, ₹ 435.12 , ₹ 4.00 
+"Kale, Shipra",Bamboo Foam Couch,South East,Style and Spa,27-05-2022, ₹ 817.11 , ₹ 22.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Elite Designs,05-09-2022, ₹ 62.60 , ₹ 14.00 
+"Sharma, Varun",Marble Dining Table,North East,Home INDIA,01-03-2022, ₹ 458.64 , ₹ 12.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Home INDIA,07-08-2021, ₹ 267.50 , ₹ 5.00 
+"Roy, Ajeet",Glass Centre Table,South West,Metro Emporium,07-06-2021, ₹ 10.64 , ₹ 6.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,26-05-2022, ₹ 440.82 , ₹ 11.00 
+"Arya, Gunjan",Bamboo Foam Couch,North East,Metro Emporium,21-02-2021, ₹ 65.40 , ₹ 15.00 
+"Roy, Ajeet",7 Seater Sofa & Recliner,South West,Metro Emporium,13-05-2022, ₹ 487.92 , ₹ 13.00 
+"Sharma, Varun",7 Seater Sofa & Recliner,North East,Designer Homes,06-09-2022, ₹ 251.71 , ₹ 7.00 
+"Saini, Gargi",7 Seater Sofa & Recliner,South West,Style and Spa,17-05-2021, ₹ 161.06 , ₹ 6.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Designer Homes,25-06-2022, ₹ 346.29 , ₹ 8.00 
+"Malik, Dev",7 Seater Sofa & Recliner,North West,Home INDIA,04-08-2022, ₹ 270.03 , ₹ 8.00 
+"Puri, Silky",Glass Centre Table,North East,Style and Spa,22-04-2022, ₹ 63.98 , ₹ 7.00 
+"Dube, Akanksha",Glass Centre Table,South West,Style and Spa,23-01-2021, ₹ 91.83 , ₹ 22.00 
+"Puri, Silky",Glass Centre Table,North East,Style and Spa,09-12-2021, ₹ 18.71 , ₹ 14.00 
+"Malik, Dev",Marble Dining Table,North West,Metro Emporium,27-03-2022, ₹ 409.62 , ₹ 4.00 
+"Sharma, Varun",Bamboo Foam Couch,North East,Metro Emporium,26-11-2022, ₹ 521.68 , ₹ 6.00 
+"Malik, Dev",Marble Dining Table,North West,Designer Homes,09-04-2021, ₹ 219.04 , ₹ 6.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Metro Emporium,16-02-2021, ₹ 761.61 , ₹ 1.00 
+"Kale, Shipra",Marble Dining Table,South East,Metro Emporium,18-01-2022, ₹ 313.55 , ₹ 11.00 
+"Saini, Gargi",Bamboo Foam Couch,South West,Home INDIA,24-11-2022, ₹ 241.73 , ₹ 1.00 
+"Kale, Shipra",Marble Dining Table,South East,Home INDIA,06-01-2021, ₹ 503.03 , ₹ 2.00 
+"Dube, Akanksha",Bamboo Foam Couch,South West,Home INDIA,27-05-2022, ₹ 758.25 , ₹ 2.00 
+"Bains, Gaurav",Bamboo Foam Couch,South West,Home INDIA,18-04-2022, ₹ 527.42 , ₹ 14.00 
+"Kale, Shipra",Marble Dining Table,South East,Home INDIA,11-01-2021, ₹ 200.82 , ₹ 6.00 
+"Puri, Silky",Bamboo Foam Couch,North East,Metro Emporium,12-06-2021, ₹ 932.21 , ₹ 3.00 
+"Bajaj, Birbal",Glass Centre Table,South East,Designer Homes,17-06-2022, ₹ 126.35 , ₹ 12.00 
+"Roy, Ajeet",Bamboo Foam Couch,South West,Style and Spa,19-02-2021, ₹ 660.28 , ₹ 15.00 
+"Malik, Dev",Marble Dining Table,North West,Home INDIA,30-06-2022, ₹ 4.83 , ₹ 16.00 
+"Sinha, Anoop",Bamboo Foam Couch,North East,Metro Emporium,16-08-2021, ₹ 442.33 , ₹ 10.00 
+,,,,,,

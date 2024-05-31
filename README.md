@@ -13,8 +13,11 @@ The goal of this case study was to analyze global furniture sales data to identi
 # Implementation:
 
 -Examine sales data for anomalies and trends.
+
 -Analyze key performance indicators (KPIs).
+
 -Identify top-performing salespersons and regions.
+
 -Provide actionable insights for sales optimization.
 
 # Data Findings:
@@ -22,8 +25,9 @@ The goal of this case study was to analyze global furniture sales data to identi
 1) Anomaly Detected 📌 : The number of items sold in January 2022 was unexpectedly high at 566.
 2) Trend Analysis 📈 :
 -A significant increase in the number of items sold with a rise of 260 items.
+
 -Margin values showed a steady upward trend, increasing by 7419.87.
-4) KPI Analysis 🗝 : Salesperson Varun Sharma has significantly higher performance metrics compared to other segments.
+3) KPI Analysis 🗝 : Salesperson Varun Sharma has significantly higher performance metrics compared to other segments.
 
 # Key Takeaway: 
 These insights suggest focusing on high-performing salespersons like Varun Sharma and understanding the factors behind the January 2022 anomaly to replicate success. Additionally, the upward trends in sales and margin indicate potential growth areas, requiring strategic focus to sustain and enhance these gains.

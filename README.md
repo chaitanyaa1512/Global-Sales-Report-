@@ -27,6 +27,7 @@ The goal of this case study was to analyze global furniture sales data to identi
 -A significant increase in the number of items sold with a rise of 260 items.
 
 -Margin values showed a steady upward trend, increasing by 7419.87.
+
 3) KPI Analysis 🗝 : Salesperson Varun Sharma has significantly higher performance metrics compared to other segments.
 
 # Key Takeaway: 

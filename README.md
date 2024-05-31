@@ -1,6 +1,7 @@
 # Global-Sales-Report-
 
-# Project Link: https://app.powerbi.com/view?r=eyJrIjoiN2ZmZTJkNDItZjFhMC00NzVmLWFlYTEtYjA1MzIyNWRjYWU4IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
+# Project Link:
+https://app.powerbi.com/view?r=eyJrIjoiN2ZmZTJkNDItZjFhMC00NzVmLWFlYTEtYjA1MzIyNWRjYWU4IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
 
 # Overview:
 The goal of this case study was to analyze global furniture sales data to identify key trends, anomalies, and performance metrics, and to provide actionable insights for optimizing sales strategies and improving overall performance.

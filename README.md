@@ -6,6 +6,10 @@ https://app.powerbi.com/view?r=eyJrIjoiN2ZmZTJkNDItZjFhMC00NzVmLWFlYTEtYjA1MzIyN
 # Overview:
 The goal of this case study was to analyze global furniture sales data to identify key trends, anomalies, and performance metrics, and to provide actionable insights for optimizing sales strategies and improving overall performance.
 
+# Calculated Columns:
+1) Revenue= Raw_Data[Item Cost]*Raw_Data[No.Items]
+2) Margin = Raw_Data[Revenue]*0.2
+
 # Implementation:
 
 -Examine sales data for anomalies and trends.
